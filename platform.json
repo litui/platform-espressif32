@@ -78,9 +78,7 @@
     "framework-espidf": {
       "type": "framework",
       "optional": true,
-      "owner": "platformio",
-      "version": "~3.50100.0",
-      "optionalVersions": ["~3.40405.0"]
+      "version": "https://github.com/litui/esp-idf#v5.1.1"
     },
     "tool-esptoolpy": {
       "type": "uploader",
